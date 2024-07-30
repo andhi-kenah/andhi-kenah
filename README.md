@@ -1,4 +1,4 @@
-## Hi👋, I am Andhi Kenah FullStack and Mobile developer
+## Hi👋, I am Andhi Kenah, FullStack and Mobile developer,
 
 <span align="left">
 <img src="https://komarev.com/ghpvc/?username=andhi-kenah" alt="andhi-kenah" />
