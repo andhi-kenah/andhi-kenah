@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently building :
-  - [**Order Management**]([https://drive.google.com/file/d/19YdNOKRKi0zlBnKHtqU3wb7vc4w3RrB5/view?usp=drivesdk](https://github.com/andhi-kenah/order-management)) | For managing client orders.
+  - [**Order Management**](https://github.com/andhi-kenah/order-management) | For managing client orders.
 - 💬 Ask me about JavaScript, Node.js, React, Go
 - 📫 How to reach me **andhiandrianina@gmail.com**
 
