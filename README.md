@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently building :
-  - [**Order Management**](https://github.com/andhi-kenah/order-management) | For managing client orders.
+  - ILO app | E-learning application (Android).
 - 💬 Ask me about JavaScript, Node.js, React, Go
 - 📫 How to reach me **andhiandrianina@gmail.com**
 
